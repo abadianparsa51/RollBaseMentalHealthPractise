@@ -61,8 +61,11 @@ This project follows a Clean Architecture-inspired structure:
 - Docker + Docker Compose
 - .NET SDK (if running without Docker)
 
-### 1) Configure environment
-Copy `.env.example` to `.env` and set values:
+## Run locally (Docker)
 
+1) Create local env file:
+- macOS/Linux:
 ```bash
+
+
 cp .env.example .env
