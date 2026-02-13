@@ -1,7 +1,1 @@
-  Office Db =>  "ConnectionStrings": {
-        "DevConnection": "Server=.;Database=NeuroEase;User Id=sa;Password=aA12345;TrustServerCertificate=True;MultipleActiveResultSets=True;"
-    }
 
-  Home Db =>   "ConnectionStrings": {
-    "DevConnection": "Server=.;Database=Test;Trusted_Connection=True;TrustServerCertificate=True;MultipleActiveResultSets=True;"
-  }
