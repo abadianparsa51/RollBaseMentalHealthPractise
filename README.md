@@ -33,12 +33,12 @@ NeuroEase is a backend-focused project built to demonstrate **production-ready b
 
 ## Tech Stack
 
-- **Backend:** C# / ASP.NET Core
-- **Database:** PostgreSQL (recommended) / SQL Server (optional)
-- **Auth:** JWT
-- **DevOps:** Docker, GitHub Actions
+- **Backend: C# / ASP.NET Core
+- **Database:SQL Server (optional)
+- **Auth:JWT
+- **DevOps: Docker, GitHub Actions
 - **Messaging (optional):** RabbitMQ
-- **Testing:** xUnit
+- **Testing: xUnit
 
 ---
 
