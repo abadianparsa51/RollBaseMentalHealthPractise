@@ -2,7 +2,7 @@ services:
   api:
     build:
       context: .
-      dockerfile: ./src/API/Dockerfile
+      dockerfile: ./NeuroEase/PATH_TO_API_FOLDER/Dockerfile
     ports:
       - "8080:8080"
     env_file:
