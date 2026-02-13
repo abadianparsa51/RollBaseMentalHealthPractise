@@ -62,10 +62,9 @@ This project follows a Clean Architecture-inspired structure:
 - .NET SDK (if running without Docker)
 
 ## Run locally (Docker)
-
+http://localhost:8080/health
 1) Create local env file:
 - macOS/Linux:
 ```bash
-
 
 cp .env.example .env
